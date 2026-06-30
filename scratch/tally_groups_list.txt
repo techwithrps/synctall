@@ -1,0 +1,68 @@
+Total Groups: 66
+
+1. Group: 2018-2019 | Parent: 
+2. Group: 2019-2020 | Parent: 
+3. Group: 2020-2021 | Parent: 
+4. Group: 2021-2022 | Parent: 
+5. Group: 2022-2023 | Parent: 
+6. Group: 2023-2024 | Parent: 
+7. Group: 2025-2028 | Parent: 
+8. Group: A.N.M. | Parent: 
+9. Group: ANM 1ST YEAR Sem-1 | Parent: 
+10. Group: ANM Department | Parent: 
+11. Group: B.Pharma | Parent: 
+12. Group: B.Pharma-First Year | Parent: 
+13. Group: B.Pharma-Fourth Year | Parent: 
+14. Group: B.Pharma-Second Year | Parent: 
+15. Group: B.Pharma-Third Year | Parent: 
+16. Group: BBA | Parent: 
+17. Group: BBA 1ST YEAR Sem-1 | Parent: 
+18. Group: BBA 1ST YEAR Sem-2 | Parent: 
+19. Group: BBA 2nd YEAR Sem-3 | Parent: 
+20. Group: BBA 2nd YEAR Sem-4 | Parent: 
+21. Group: BBA 3rd YEAR Sem-5 | Parent: 
+22. Group: BBA 3rd YEAR Sem-6 | Parent: 
+23. Group: Bank Accounts | Parent: 
+24. Group: Bank OD A/c | Parent: 
+25. Group: Branch / Divisions | Parent: 
+26. Group: Bus Fees | Parent: 
+27. Group: Capital Account | Parent: 
+28. Group: Cash-in-Hand | Parent: 
+29. Group: Current Assets | Parent: 
+30. Group: Current Liabilities | Parent: 
+31. Group: D.Pharma | Parent: 
+32. Group: D.Pharma-First Year | Parent: 
+33. Group: D.Pharma-Second Year | Parent: 
+34. Group: Deposits (Asset) | Parent: 
+35. Group: Direct Expenses | Parent: 
+36. Group: Direct Incomes | Parent: 
+37. Group: Duties &amp; Taxes | Parent: 
+38. Group: Fees Head | Parent: 
+39. Group: Fixed Assets | Parent: 
+40. Group: Hostel | Parent: 
+41. Group: Hostel Fees | Parent: 
+42. Group: Hostel Fees Security | Parent: 
+43. Group: Indirect Expenses | Parent: 
+44. Group: Indirect Incomes | Parent: 
+45. Group: Investments | Parent: 
+46. Group: Left 2026 | Parent: 
+47. Group: Left From School | Parent: 
+48. Group: Loans &amp; Advances (Asset) | Parent: 
+49. Group: Loans (Liability) | Parent: 
+50. Group: Misc. Expenses (ASSET) | Parent: 
+51. Group: Passout Student | Parent: 
+52. Group: Provisions | Parent: 
+53. Group: Purchase Accounts | Parent: 
+54. Group: Reserves &amp; Surplus | Parent: 
+55. Group: Sales Accounts | Parent: 
+56. Group: Secured Loans | Parent: 
+57. Group: Security | Parent: 
+58. Group: Session | Parent: 
+59. Group: Stock-in-Hand | Parent: 
+60. Group: Student | Parent: 
+61. Group: Student Left | Parent: 
+62. Group: Student Passout | Parent: 
+63. Group: Sundry Creditors | Parent: 
+64. Group: Sundry Debtors | Parent: 
+65. Group: Suspense A/c | Parent: 
+66. Group: Unsecured Loans | Parent: 

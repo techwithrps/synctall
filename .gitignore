@@ -1,0 +1,9 @@
+.venv/
+node_modules/
+backend/node_modules/
+*.xml
+*.xml.processed
+logs/*.log*
+sync_agent.zip
+.DS_Store
+=
